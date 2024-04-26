@@ -1,0 +1,3 @@
+It scrapes the channels listed and stores the number of messages you specified in a txt file(also translates any lang into english before storing)
+It needs your telegram api_id,hash, phone-no , use a fake number because scrapping is against telegram ToS , if you get caught you will be banned permanently
+also don't share your api_id/hash with anyone coz there is no option to delete/change it.
